@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Tejashwani parmar 👋
 
-<!--
-**Student-tej/Student-tej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 5th-semester ECE student currently transitioning into Software Development. I love building interactive web interfaces and solving logical problems.
 
-Here are some ideas to get you started:
+### 🚀 Currently Learning
+- 💻 **Frontend Web Development:** HTML, CSS, JavaScript (React coming soon!)
+- 🧠 **Data Structures & Algorithms:** Practicing in Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Tools:** Git, GitHub, VS Code
+
+### 📫 How to reach me:
+- **LinkedIn:** www.linkedin.com/in/tejashwani-parmar03
+- **Email:** tejparmar288@gmail.com
+
+ 
